@@ -3,3 +3,14 @@
 - Сейчас я совершенствую навыки в JS, CSS, HTML
 - Моя почта для связи: gavrilyuk.taras5@gmail.com
 - Мой Telegram: 
+- Stack: 
+- javaScript
+- CSS3![toppng com-postgresql-logo-496x512](https://user-images.githubusercontent.com/101477718/177579283-9acb03ca-312b-40a2-b5c1-d79f07fde553.png)
+
+- HTML5
+- React
+- Redux
+- Sequelize
+- PostgreSQL
+- Node.js
+- Express
