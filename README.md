@@ -5,8 +5,7 @@
 - Мой Telegram: 
 - Stack: 
 - javaScript
-- CSS3![toppng com-postgresql-logo-80x80](https://user-images.githubusercontent.com/101477718/177579283-9acb03ca-312b-40a2-b5c1-d79f07fde553.png)
-
+- CSS3
 - HTML5
 - React
 - Redux
