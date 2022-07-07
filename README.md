@@ -1,8 +1,10 @@
-- Привет, я Тарас Гаврилюк
-- Я front-end разработчик
+Привет, я Тарас Гаврилюк
+front-end разработчик
 - Моя почта для связи: gavrilyuk.taras5@gmail.com
 - Мой Telegram: t_me-79951204325
-- Stack: 
+
+
+Stack: 
 - javaScript
 - CSS3
 - HTML5
