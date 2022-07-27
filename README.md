@@ -1,6 +1,6 @@
 Привет, я Тарас Гаврилюк,
 front-end разработчик
-- Моя почта для связи: gavrilyuk.taras5@gmail.com
+- Моя почта для связи: gavrilyuk.taras7@gmail.com
 - Мой Telegram: t_me-79951204325
 
 
