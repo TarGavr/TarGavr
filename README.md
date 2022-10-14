@@ -10,6 +10,7 @@ Stack:
 - HTML5
 - React
 - Redux
+- Redux Toolkit
 - Sequelize
 - PostgreSQL
 - Node.js
